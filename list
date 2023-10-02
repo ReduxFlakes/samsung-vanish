@@ -1,16 +1,38 @@
-pm uninstall --user 0 de.axelspringer.yana.zeropage
 pm uninstall --user 0 com.microsoft.skydrive
-pm uninstall --user 0 com.microsoft.office.excel
 pm uninstall --user 0 com.microsoft.office.word
+pm uninstall --user 0 com.microsoft.office.excel
 pm uninstall --user 0 com.microsoft.office.powerpoint
+pm uninstall --user 0 com.linkedin.android
 
-pm uninstall --user 0 com.sec.android.diagmonagent
-pm uninstall --user 0 com.sec.android.app.billing
+pm uninstall --user 0 com.google.android.youtube
+pm uninstall --user 0 com.google.android.apps.maps
+pm uninstall --user 0 com.google.android.projection.gearhead
+pm uninstall --user 0 com.google.android.apps.tachyon
+pm uninstall --user 0 com.google.android.googlequicksearchbox
+pm uninstall --user 0 com.google.android.tts
+pm uninstall --user 0 com.google.android.feedback
+pm uninstall --user 0 com.google.android.partnersetup
+pm uninstall --user 0 com.google.android.apps.restore
+pm uninstall --user 0 com.google.android.setupwizard
+pm uninstall --user 0 com.google.android.gms.location.history
+pm uninstall --user 0 com.android.chrome
+pm uninstall --user 0 com.sec.android.app.chromecustomizations
+pm uninstall --user 0 com.google.android.onetimeinitializer
+pm uninstall --user 0 com.google.android.printservice.recommendation
+pm uninstall --user 0 com.google.android.syncadapters.calendar
+pm uninstall --user 0 com.google.android.syncadapters.contacts
+pm uninstall --user 0 com.android.vending
+pm uninstall --user 0 com.google.android.gms
+pm uninstall --user 0 com.google.android.gsf
+
 pm uninstall --user 0 com.sec.spp.push
-pm uninstall --user 0 com.sec.android.service.health
+pm uninstall --user 0 com.sec.android.daemonapp
+pm uninstall --user 0 com.sec.android.app.billing
 pm uninstall --user 0 com.sec.location.nsflp2
-pm uninstall --user 0 com.sec.android.widgetapp.samsungapps
+pm uninstall --user 0 com.sec.android.service.health
+pm uninstall --user 0 com.sec.android.diagmonagent
 pm uninstall --user 0 com.sec.android.easyMover.Agent
+pm uninstall --user 0 com.sec.android.widgetapp.samsungapps
 
 pm uninstall --user 0 com.osp.app.signin
 pm uninstall --user 0 com.samsung.android.game.gamehome
@@ -24,31 +46,6 @@ pm uninstall --user 0 com.samsung.android.game.gos
 pm uninstall --user 0 com.samsung.android.app.spage
 pm uninstall --user 0 com.samsung.android.bixby.service
 pm uninstall --user 0 com.samsung.android.app.settings.bixby
-pm uninstall --user 0 com.sec.android.daemonapp
-pm uninstall --user 0 com.diotek.sec.lookup.dictionary
+pm uninstall --user 0 com.diotek.sec.lookup.dictionar
 
-pm uninstall --user 0 com.hiya.star
 
-pm uninstall --user 0 com.google.android.youtube
-pm uninstall --user 0 com.android.vending
-pm uninstall --user 0 com.google.android.googlequicksearchbox
-pm uninstall --user 0 com.google.android.apps.maps
-pm uninstall --user 0 com.google.android.projection.gearhead
-pm uninstall --user 0 com.google.android.feedback
-pm uninstall --user 0 com.google.android.apps.restore
-pm uninstall --user 0 com.google.android.setupwizard
-pm uninstall --user 0 com.google.android.apps.tachyon
-pm uninstall --user 0 com.google.android.gm
-pm uninstall --user 0 com.google.android.partnersetup
-pm uninstall --user 0 com.google.android.gms.location.history
-pm uninstall --user 0 com.google.android.tts
-pm uninstall --user 0 com.google.android.printservice.recommendation
-pm uninstall --user 0 com.google.android.syncadapters.calendar
-pm uninstall --user 0 com.google.android.syncadapters.contacts
-pm uninstall --user 0 com.google.android.onetimeinitializer
-pm uninstall --user 0 com.google.android.gms
-pm uninstall --user 0 com.google.android.gsf
-pm uninstall --user 0 com.android.chrome
-pm uninstall --user 0 com.sec.android.app.chromecustomizations
-
-pm uninstall --user 0 com.linkedin.android
